@@ -1,4 +1,4 @@
-# Delicious Analytics: Pizza Sales Insights Dashboard
+# 🍕Delicious Analytics: Pizza Sales Insights Dashboard
 ## 1. Project Overview
 A dynamic, interactive data visualization tool built to explore the sales pattern of different pizzas, focusing on daily and hourly trend comparisons of total orders, percentage contributions of certain categories and sizes of pizzas and an understanding of the best and worst pizza selling types.
 ## 2. Purpose and Function
