@@ -8,10 +8,10 @@ The dashboard was built using the following tools and technologies:-
 
 • 📊 Microsoft Excel – Main data analysis and visualization platform used for data manipulation, dashboard and report creation.
 
-• 📝 Data Cleaning and Processing – Raw business data cleaned and processed for enabling efficient data summarization and analysis.
+• ✨ Data Cleaning and Processing – Raw business data cleaned and processed for enabling efficient data summarization and analysis.
 
-• 📂 Pivot Tables – Used for summarization of the cleaned and processed data for generating KPIs and insights based on the given business problems.
+• 𝄜 Pivot Tables – Used for summarization of the cleaned and processed data for generating KPIs and insights based on the given business problems.
 
-• 🧠 Microsoft SQL Server – Database used for the purpose of cross-checking with the summarized data, assuring data integrity and correctness.
+• 🛢 Microsoft SQL Server – Database used for the purpose of cross-checking with the summarized data, assuring data integrity and correctness.
 
 • 📁 File Format – .xlsx for development, .sql for data validation and .png for dashboard preview.
