@@ -24,7 +24,7 @@ Key Business Questions like: What are the daily and hourly trend for total order
 
 ### • Walkthrough of Key Visuals
 
-• Key KPIs (Top):- Total revenue of $817,860 generated: 49,574 total pizzas sold with a total of 21,350 orders undertaken: 2.32 average pizzas sold per order with an average order revenue of $38.31 generated.
+• Key KPIs (Top):- Total revenue of $8,17,860 generated: 49,574 total pizzas sold with a total of 21,350 orders undertaken: 2.32 average pizzas sold per order with an average order revenue of $38.31 generated.
 
 • Daily Trends for Total Orders (Vertical Bar Chart):- shows the number of orders underatken each day.
 
@@ -38,9 +38,29 @@ Key Business Questions like: What are the daily and hourly trend for total order
 
 • Top 5 and Bottom 5 Pizza Types Sold (Horizontal Bar Charts):- shows the top 5 popular and bottom 5 unpopular pizza types.
 
-• Timeline Slicer/Filter:- An interactive slicer lets users filter all the sales and pizza data according to different timelines like months & quarters of the year.
+• Timeline Slicer/Filter:- An interactive slicer lets users filter all the sales and pizza data according to specific timelines like months & quarters of the year.
 
-### • Insights and Solutions
+## • Insights and Solutions
 
-6. Screenshots / Demos
-Show what the dashboard looks like. - Alt text Example: 
+### Insights:- 
+
+The following insights are derived from the data:-
+
+a. Total orders per day have an upper trend as weekend approaches and finally reaches peak on Friday. Hourly order trend shows that the time around 12-1 P.M and 5-6 P.M have are the busiest and have the highest number of orders. 
+
+b. Classic Pizza Category has the highest number of sales as well as contributes the most to the revenue. In terms of size, Large Size Pizzas contribute the most to the revenue.
+
+c. The Classic Deluxe Pizza type along with some types of Chicken Pizzas are the best sellers and revenue generators while The Brie Carre Pizza type is the worst seller and revenue generator.
+
+### Solutions:-
+
+The following measures and solutions can be applied to increase pizza sales in the coming year:-
+
+a. Pizza productions and staffing can be increased on Thursdays and Fridays, especially around 12-1 P.M and 5-6 P.M.
+
+b. Production of Classic Category Pizzas and Large Size Pizzas can be prioritized.
+
+c. Resources from the production of The Brie Carre Pizza type can be re-utilized to increase the production of The Classic Deluxe Pizza type along with some chicken based pizza types.
+
+### Screenshot of the Dashboard:-
+
