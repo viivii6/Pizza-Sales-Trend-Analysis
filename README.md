@@ -64,4 +64,4 @@ c. Resources from the production of The Brie Carre Pizza type can be re-utilized
 
 ### Screenshot of the Dashboard:-
 
-https://github.com/viivii6/Pizza-Sales-Trend-Analysis/blob/main/Sales%20Analysis%20Dashboard.png
+![Dashboard Preview].(https://github.com/viivii6/Pizza-Sales-Trend-Analysis/blob/main/Sales%20Analysis%20Dashboard.png).
