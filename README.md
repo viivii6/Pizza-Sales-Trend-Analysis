@@ -15,3 +15,32 @@ The dashboard was built using the following tools and technologies:-
 • 🛢 Microsoft SQL Server – Database used for the purpose of cross-checking with the summarized data, assuring data integrity and correctness.
 
 • 📁 File Format – .xlsx for development, .sql for data validation and .png for dashboard preview.
+## 4. Key Features
+### • Business Problem:-
+
+The main business problem of the project is to understand the pizza sales' trends and patterns through the year 2015 and answer some given business questions according to which, steps might be taken to increase sales in the next year.
+
+Key Business Questions like: What are the daily and hourly trend for total orders, percentage sales by pizza category and size, total pizzas sold by pizza category along with the top 5 and bottom 5 selling pizza types are answered.
+
+### • Walkthrough of Key Visuals
+
+• Key KPIs (Top):- Total revenue of $817,860 generated: 49,574 total pizzas sold with a total of 21,350 orders undertaken: 2.32 average pizzas sold per order with an average order revenue of $38.31 generated.
+
+• Daily Trends for Total Orders (Vertical Bar Chart):- shows the number of orders underatken each day.
+
+• Hourly Trends for Total Orders (Line Chart):- shows the number of orders underatken at every working hour each day.
+
+• Percentage of Revenue by Pizza Category (Donut Chart):- shows the percentage share of revenue among the four categories of pizzas.
+
+• Percentage of Revenue by Pizza Size (Pie Chart):- shows the percentage share of revenue among the five size types of pizzas.
+
+• Total Pizzas Sold by Pizza Category (Funnel Chart):- shows the total number of each category of pizza sold.
+
+• Top 5 and Bottom 5 Pizza Types Sold (Horizontal Bar Charts):- shows the top 5 popular and bottom 5 unpopular pizza types.
+
+• Timeline Slicer/Filter:- An interactive slicer lets users filter all the sales and pizza data according to different timelines like months & quarters of the year.
+
+### • Insights and Solutions
+
+6. Screenshots / Demos
+Show what the dashboard looks like. - Alt text Example: 
